@@ -6,3 +6,5 @@
     李旭东 xudongli@mail.ustc.edu.cn
     
     盖泰亨 gth@mail.ustc.edu.cn
+    
+    云计算课程邮箱：  cloudc2018@163.com
