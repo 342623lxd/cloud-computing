@@ -16,6 +16,8 @@
 
 吴妍君组： 12.29-15:30-16:30    2.1 Private Information Retrival 
 
+黄遵祥组： 1.6-10:00-11:00      2.16: Blockchain Applications
+
 陈若云组： 1.12 14:00-15:00     1.4: Machine Learning and Networking
 
 刘晨辉组： 1.13-15:00-16:00     1.5: User Data Utilization
