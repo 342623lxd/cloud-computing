@@ -24,7 +24,7 @@
   
 刘晨辉组：  1.13-15:00-16:00          1.5: User Data Utilization
 
-张晓妮组：  1.20-15：:00-16:00        1.2: Edge Computing
+张晓妮组：  1.20-15：00-16:00        1.2: Edge Computing
  
 冯鸣啸组    1.20-19:00-20:00          2.13 Trusted Hardware-SGX
 
