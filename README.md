@@ -16,7 +16,7 @@
 
 吴妍君组：  12.29 周六 15:30-16:30        2.1： Private Information Retrival 
 
-黄遵祥组：  1.6 周日 10:00-11:00          2.16: Blockchain Applications
+黄遵祥组：  1.6 周日 16:00-17:00          2.16: Blockchain Applications
 
 赵杭天组：  1.12  周六 15:00-16:00         1.4: Machine Learning and Networking
 
