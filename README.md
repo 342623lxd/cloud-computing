@@ -32,10 +32,12 @@
 
 万凯组：    1.19  周六   15:00-16:00         1.11: Routing & SDN
 
-张晓妮组：  1.20  周日 15：00-16:00          1.2: Edge Computing
+张晓妮组：  1.20  周日  15：00-16:00          1.2: Edge Computing
  
-曹志组：    1.20 周日 16.00-17.00            1.11: Routing & SDN
+曹志组：    1.20 周日  16.00-17.00            1.11: Routing & SDN
  
-冯鸣啸组    1.20 周日 19:00-20:00            2.13： Trusted Hardware-SGX
+冯鸣啸组    1.20 周日  19:00-20:00            2.13： Trusted Hardware-SGX
+
+刘进学组    1.22  周二   15:00-16:00           1.12   SDN Control Plane 1
 
 
