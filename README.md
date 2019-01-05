@@ -26,6 +26,8 @@
 
 卢仕航组：     1.13 周日  16:00-17:00        1.4: Machine Learning and Networking
 
+高翔组   1.13日  周日 19:00—20:00           1.2: Edge Computing
+
 叶晓辉组：   1.13日  周日 20:00—21:00        1.2: Edge Computing
 
 张瑞骐组：   1.19 周六   14:00-15:00         1.11: Routing & SDN
