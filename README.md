@@ -40,6 +40,6 @@
  
 冯鸣啸组    1.20 周日  19:00-20:00            2.13： Trusted Hardware-SGX
 
-刘进学组    1.22  周二   15:00-16:00           1.12   SDN Control Plane 1
+刘进学组    1.23  周三  15:00-16:00           1.12   SDN Control Plane 1
 
 
