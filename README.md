@@ -32,7 +32,7 @@
 
 万凯组：    1.19  周六   15:00-16:00         1.11: Routing & SDN
 
-穆天杰组：     1.19  周六   15:00-16:00        2.16: Blockchain Applications
+穆天杰组：     1.19  周六   16:00-17:00        2.16: Blockchain Applications
 
 张晓妮组：  1.20  周日  15：00-16:00          1.2: Edge Computing
  
