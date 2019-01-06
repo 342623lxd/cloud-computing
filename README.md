@@ -12,10 +12,6 @@
  
 汇报预约：
 
-张春明组：   12.29 周六 14：30-15:30        2.15: BFT and Blockchain
-
-吴妍君组：   12.29 周六 15:30-16:30         2.1： Private Information Retrival 
-
 黄遵祥组：   1.6 周日 16:00-17:00           2.16: Blockchain Applications
 
 陈若云组：    1.12 周六 14:00-15:00           1.4: Machine Learning and Networking
@@ -43,6 +39,8 @@
 曹志组：     1.20 周日  16.00-17.00            1.11: Routing & SDN
  
 冯鸣啸组：     1.20 周日  19:00-20:00            2.13： Trusted Hardware-SGX
+
+郭晓楠组：     1.23 周三    14:00-15:00            1.9: SDN Architecture 
 
 刘进学组：     1.23  周三  15:00-16:00           1.12   SDN Control Plane 1
 
