@@ -26,8 +26,10 @@
  
 宋路川组   1.14 周一  19:00-20:00  1.6《cache network1》1.7《cache network 2》
 
+朱勇合：   1.19    09：00-10：00
+
 房红强组：     1.19 周六   10:00-11:00       1.2: Edge Computing
-马陆鹏组：1月20日14：00-15：00 2.16: Blockchain Applications
+
 张瑞骐组：    1.19 周六   14:00-15:00         1.11: Routing & SDN
  
 万凯组：     1.19  周六   15:00-16:00         1.11: Routing & SDN
