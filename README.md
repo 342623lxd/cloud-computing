@@ -12,8 +12,6 @@
  
 汇报预约：（科技实验楼西楼：905会议室）
 
-黄遵祥组：   1.6 周日 16:00-17:00           2.16: Blockchain Applications
-
 陈若云组：    1.12 周六 14:00-15:00           1.4: Machine Learning and Networking
 
 赵杭天组：     1.12  周六 15:00-16:00          1.4: Machine Learning and Networking
