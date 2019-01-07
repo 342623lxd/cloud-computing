@@ -25,6 +25,8 @@
 高翔组：       1.13  周日 19:00-20:00              1.2: Edge Computing
 
 叶晓辉组：     1.13日  周日 20:00—21:00        1.2: Edge Computing
+ 
+宋路川组   1.14 周一  19:00-20:00  1.6《cache network1》1.7《cache network 2》
 
 房红强组：     1.19 周六   10:00-11:00       1.2: Edge Computing
 
