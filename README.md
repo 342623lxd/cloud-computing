@@ -48,6 +48,8 @@
  
 冯鸣啸组：     1.20 周日  19:00-20:00            2.13： Trusted Hardware-SGX
 
+谭懿:   1.20 20:00-21:00  1.4 Machine Learning and Networking
+
 郭晓楠组：     1.23 周三    14:00-15:00            1.9: SDN Architecture 
 
 刘进学组：     1.23  周三  15:00-16:00           1.12   SDN Control Plane 1
