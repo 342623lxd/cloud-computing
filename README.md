@@ -24,9 +24,11 @@
 
 叶晓辉组：     1.13日  周日 20:00—21:00        1.2: Edge Computing
 
-王嘉明:   1.13  21:00-22:00
+王嘉明:      1.13  21:00-22:00
  
 宋路川组   1.14 周一  19:00-20:00  1.6《cache network1》1.7《cache network 2》
+
+刘朝辞组:   1.18  19:00-20:00
 
 朱勇合组:    1.19   周六  09：00-10：00     2.16: Blockchain Applications
 
@@ -50,7 +52,9 @@
  
 冯鸣啸组：     1.20 周日  19:00-20:00            2.13： Trusted Hardware-SGX
 
-谭懿:   1.20 20:00-21:00  1.4 Machine Learning and Networking
+谭懿:   1.20    20:00-21:00  1.4 Machine Learning and Networking
+
+金东：  1.21  15：00-16：00
 
 郭晓楠组：     1.23 周三    14:00-15:00            1.9: SDN Architecture 
 
