@@ -54,6 +54,8 @@
 
 谭懿组:   1.20  周日   20:00-21:00        1.4 Machine Learning and Networking
 
+李道峰组:   1.20   周日  21:00-22:00    1.9: SDN Architecture
+
 孙凯旋组：  1.21 周一  15：00-16：00             1.9: SDN Architecture
 
 郭晓楠组：     1.23 周三   14:00-15:00            1.9: SDN Architecture 
