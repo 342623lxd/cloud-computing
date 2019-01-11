@@ -11,10 +11,6 @@
 
  
 汇报预约：（科技实验楼西楼：905会议室）
-
-陈若云组：    1.12 周六 14:00-15:00           1.4: Machine Learning and Networking
-
-赵杭天组：     1.12  周六 15:00-16:00          1.4: Machine Learning and Networking
   
 刘晨辉组：     1.13 周日  15:00-16:00           1.5: User Data Utilization
  
@@ -27,6 +23,10 @@
 王嘉明组:      1.13  周日  21:00-22:00          1.5: User Data Utilization
  
 宋路川组     1.14  周一  19:00-20:00     1.6 《cache network1》 1.7 《cache network 2》
+
+陈若云组：    1.14 周一 20:00-21:00           1.4: Machine Learning and Networking
+
+赵杭天组：     1.14  周一 21:00-22:00          1.4: Machine Learning and Networking
 
 刘朝辞组:   1.18  周五 19:00-20:00            1.16: NFV 1
 
