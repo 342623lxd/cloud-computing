@@ -22,13 +22,13 @@
 
 高翔组：       1.13  周日 19:00-20:00              1.2: Edge Computing
 
-叶晓辉组：     1.13日  周日 20:00—21:00        1.2: Edge Computing
+叶晓辉组：     1.13  周日 20:00—21:00        1.2: Edge Computing
 
-王嘉明:      1.13  21:00-22:00
+王嘉明组:      1.13 周日  21:00-22:00          1.5: User Data Utilization
  
-宋路川组   1.14 周一  19:00-20:00  1.6《cache network1》1.7《cache network 2》
+宋路川组   1.14 周一  19:00-20:00   1.6 《cache network1》 1.7 《cache network 2》
 
-刘朝辞组:   1.18  19:00-20:00
+刘朝辞组:   1.18  周五 19:00-20:00            1.16:NFV 1
 
 朱勇合组:    1.19   周六  09：00-10：00     2.16: Blockchain Applications
 
@@ -40,11 +40,11 @@
 
 穆天杰组：     1.19   周六   16:00-17:00        2.16: Blockchain Applications
 
-姬楠组：      1.19     周六  19:00-20:00
+姬楠组：      1.19     周六  19:00-20:00          2.7: Differential Privacy 1
 
-刘威组：        1.19   周六  20:00-21:00
+刘威组：        1.19   周六  20:00-21:00        1.4: Machine Learning and Networking
 
-马陆鹏组：      1月20日    14：00-15：00      2.16: Blockchain Applications
+马陆鹏组：      1月20日 周日    14：00-15：00      2.16: Blockchain Applications
 
 张晓妮组：   1.20  周日  15：00-16:00          1.2: Edge Computing
  
@@ -52,17 +52,19 @@
  
 冯鸣啸组：     1.20 周日  19:00-20:00            2.13： Trusted Hardware-SGX
 
-谭懿:   1.20    20:00-21:00  1.4 Machine Learning and Networking
+谭懿组:   1.20  周日   20:00-21:00        1.4 Machine Learning and Networking
 
-金东：  1.21  15：00-16：00
+孙凯旋组：  1.21 周一 15：00-16：00             1.9: SDN Architecture
 
 郭晓楠组：     1.23 周三    14:00-15:00            1.9: SDN Architecture 
 
 刘进学组：     1.23  周三  15:00-16:00           1.12   SDN Control Plane 1
 
-丁斯昊组： 1.23 周三 19:00—20:00
+丁斯昊组： 1.23 周三 19:00—20:00         1.5: User Data Utilization
 
-凌华泽组： 1.23  周三 20:00—21:00
+凌华泽组： 1.23  周三 20:00—21:00         2.2: Attribute_Based Encryption(ABE) with Dynamic Attributes
+
+何其玮组： 1.23  周三 21:00—22:00          1.11: Routing & SDN
 
 
 
