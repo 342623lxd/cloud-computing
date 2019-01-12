@@ -58,6 +58,10 @@
 
 孙凯旋组：  1.21 周一  15：00-16：00             1.9: SDN Architecture
 
+周靖淞组：   1.21 周一  19：00-20：00   1.19 Service Function Chaining 2
+
+李家俊组：  1.21 周一  20：00-21：00             1.5: user data utilization
+
 郭晓楠组：     1.23 周三   14:00-15:00            1.9: SDN Architecture 
 
 刘进学组：     1.23  周三  15:00-16:00           1.12   SDN Control Plane 1
