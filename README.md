@@ -40,39 +40,39 @@
 
 穆天杰组：     1.19   周六   16:00-17:00        2.16: Blockchain Applications
 
-姬楠组：      1.19     周六  19:00-20:00          2.7: Differential Privacy 1
+姬楠组：      1.19     周六   19:00-20:00          2.7: Differential Privacy 1
 
-刘威组：        1.19   周六  20:00-21:00        1.4: Machine Learning and Networking
+刘威组：        1.19    周六    20:00-21:00        1.4: Machine Learning and Networking
 
-马陆鹏组：      1月20日  周日   14：00-15：00      2.16: Blockchain Applications
-
-张晓妮组：   1.20  周日  15：00-16:00          1.2: Edge Computing
+马陆鹏组：      1月20   周日   14：00-15：00      2.16: Blockchain Applications
  
-曹志组：     1.20 周日  16.00-17.00            1.11: Routing & SDN
+张晓妮组：    1.20  周日   15：00-16:00          1.2: Edge Computing
  
-冯鸣啸组：     1.20 周日  19:00-20:00            2.13： Trusted Hardware-SGX
+曹志组：     1.20  周日   16.00-17.00            1.11: Routing & SDN
+ 
+冯鸣啸组：     1.20 周日   19:00-20:00            2.13： Trusted Hardware-SGX
 
-谭懿组:   1.20  周日   20:00-21:00        1.4 Machine Learning and Networking
+谭懿组:     1.20   周日    20:00-21:00        1.4 Machine Learning and Networking
 
-李道峰组:   1.20   周日  21:00-22:00    1.9: SDN Architecture
+李道峰组:   1.20   周日   21:00-22:00    1.9: SDN Architecture
 
-孙凯旋组：  1.21 周一  15：00-16：00             1.9: SDN Architecture
+孙凯旋组：   1.21    周一   15：00-16：00             1.9: SDN Architecture
 
-周靖淞组：   1.21 周一  19：00-20：00   1.19 Service Function Chaining 2
+周靖淞组：   1.21    周一   19：00-20：00   1.19 Service Function Chaining 2
 
-李家俊组：  1.21 周一  20：00-21：00             1.5: user data utilization
+李家俊组：  1.21    周一   20：00-21：00             1.5: user data utilization
 
-郭晓楠组：     1.23 周三   14:00-15:00            1.9: SDN Architecture 
+郭晓楠组：     1.23   周三   14:00-15:00            1.9: SDN Architecture 
 
-刘进学组：     1.23  周三  15:00-16:00           1.12   SDN Control Plane 1
+刘进学组：     1.23    周三  15:00-16:00           1.12   SDN Control Plane 1
 
-丁斯昊组： 1.23 周三 19:00—20:00         1.5: User Data Utilization
+丁斯昊组：  1.23  周三  19:00—20:00         1.5: User Data Utilization
 
-凌华泽组： 1.23  周三 20:00—21:00         2.2: Attribute_Based Encryption(ABE) with Dynamic Attributes
+凌华泽组：  1.23  周三  20:00—21:00         2.2: Attribute_Based Encryption(ABE) with Dynamic Attributes
 
-何其玮组： 1.23  周三 21:00—22:00          1.11: Routing & SDN
+何其玮组：  1.23  周三  21:00—22:00          1.11: Routing & SDN
 
-齐鸿组：  1.24    周四  09：00-10:00        1.3: Tactile Internet
+齐鸿组：   1.24    周四   09：00-10:00        1.3: Tactile Internet
 
 
 
