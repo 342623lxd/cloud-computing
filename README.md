@@ -60,6 +60,8 @@
 
 孙凯旋组：   1.21    周一   15：00-16：00             1.9: SDN Architecture
 
+张佳斌组： 1.21 周一  19:00-20:00   2.4: ZKP’s Application to Bitcoin
+
 李家俊组：  1.21    周一   20：00-21：00             1.5: user data utilization
 
 刘松林组： 1.21    周一 21：00-22:00      2.12: Secure Mltiparty Computation 2
