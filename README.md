@@ -82,5 +82,7 @@
  
 徐本峰组：      1.24     周四    15:00-16:00       1.9: SDN Architecture
 
+杨尚彤组：    1.24     周四    16:00-17:00       1.10: traffic Engineering 
+
 
 
