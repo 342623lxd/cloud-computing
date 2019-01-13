@@ -56,6 +56,8 @@
 
 李道峰组:   1.20   周日   21:00-22:00    1.9: SDN Architecture
 
+李忠辉组：   1.21    周一   14：00-15：00       1.1: Cloud Optimization
+
 孙凯旋组：   1.21    周一   15：00-16：00             1.9: SDN Architecture
 
 周靖淞组：   1.21    周一   19：00-20：00   1.19 Service Function Chaining 2
