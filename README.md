@@ -60,8 +60,6 @@
 
 孙凯旋组：   1.21    周一   15：00-16：00             1.9: SDN Architecture
 
-周靖淞组：   1.21    周一   19：00-20：00   1.19 Service Function Chaining 2
-
 李家俊组：  1.21    周一   20：00-21：00             1.5: user data utilization
 
 刘松林组： 1.21    周一 21：00-22:00      2.12: Secure Mltiparty Computation 2
@@ -77,6 +75,8 @@
 何其玮组：    1.23  周三  21:00—22:00            1.11: Routing & SDN
 
 齐鸿组：     1.24    周四   09：00-10:00          1.3: Tactile Internet
+
+周靖淞组：  1.24    周四   10：00-11:00   1.19 Service Function Chaining 2
 
  程宇翔：   1.24     周四  14：00-15:00                单独汇报
  
