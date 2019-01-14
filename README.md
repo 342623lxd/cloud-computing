@@ -80,6 +80,8 @@
 
 周靖淞组：  1.24    周四   10：00-11:00   1.19 Service Function Chaining 2
 
+郭跃组：   1.24    周四   10：00-11:00   2.16 Blockchain Application
+
  程宇翔：   1.24     周四  14：00-15:00                单独汇报
  
 徐本峰组：      1.24     周四    15:00-16:00       1.9: SDN Architecture
