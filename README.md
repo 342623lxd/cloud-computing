@@ -50,10 +50,6 @@
 
 刘松林组： 1.21    周一 21：00-22:00      2.12: Secure Mltiparty Computation 2
 
-郭晓楠组：     1.23   周三   14:00-15:00            1.9: SDN Architecture 
- 
-何其玮组：    1.23  周三  21:00—22:00            1.11: Routing & SDN
-
 齐鸿组：     1.24    周四   09：00-10:00          1.3: Tactile Internet
 
 周靖淞组：  1.24    周四   10：00-11:00   1.19 Service Function Chaining 2
@@ -71,6 +67,12 @@
 凌华泽组：   1.24     周四  20:00—21:00           2.2: Attribute_Based Encryption(ABE) with Dynamic Attributes
 
 刘进学组： 1.24     周四  21:00-22：00             1.12 SDN Control Plane 1
+
+何其玮组：    1.25  周五  14：30-15：30            1.11: Routing & SDN
+
+郭晓楠组：     1.25   周五   15：30-16：30             1.9: SDN Architecture 
+ 
+
 
 
 
