@@ -28,11 +28,11 @@
 
 朱勇合组:    1.19   周六  21：00-22：00      2.16: Blockchain Applications
 
-马陆鹏组：      1月20   周日   14：00-15：00      2.16: Blockchain Applications
+马陆鹏组：      1月20   周日   16：00-17：00      2.16: Blockchain Applications
  
-张晓妮组：    1.20  周日   15：00-16:00          1.2: Edge Computing
+张晓妮组：    1.20  周日   17：00-18:00          1.2: Edge Computing
  
-曹志组：     1.20  周日   16.00-17.00            1.11: Routing & SDN
+曹志组：     1.20  周日   18.00-19.00            1.11: Routing & SDN
  
 冯鸣啸组：     1.20 周日   19:00-20:00            2.13： Trusted Hardware-SGX
 
