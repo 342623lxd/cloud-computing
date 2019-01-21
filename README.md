@@ -50,11 +50,11 @@
 
 刘松林组： 1.21    周一 21：00-22:00      2.12: Secure Mltiparty Computation 2
 
-齐鸿组：     1.24    周四   09：00-10:00          1.3: Tactile Internet
+凌华泽组：   1.24     周四  09:00—10:00           2.2: Attribute_Based Encryption(ABE) with Dynamic Attributes
 
-周靖淞组：  1.24    周四   10：00-11:00   1.19 Service Function Chaining 2
+郭跃组：   1.24    周四   10：00-11:00   2.15 BFT and Blockchain
 
-郭跃组：   1.24    周四   11：00-12:00   2.15 BFT and Blockchain
+齐鸿组：     1.24    周四   11：00-12:00          1.3: Tactile Internet
 
  程宇翔：   1.24     周四  14：00-15:00                单独汇报
  
@@ -64,7 +64,7 @@
 
 丁斯昊组：  1.24     周四   19:00—20:00            1.5: User Data Utilization
 
-凌华泽组：   1.24     周四  20:00—21:00           2.2: Attribute_Based Encryption(ABE) with Dynamic Attributes
+周靖淞组：  1.24    周四   20：00-21:00   1.19 Service Function Chaining 2
 
 刘进学组： 1.24     周四  21:00-22：00             1.12 SDN Control Plane 1
 
