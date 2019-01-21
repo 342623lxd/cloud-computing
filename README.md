@@ -54,7 +54,7 @@
 
 周靖淞组：  1.24    周四   10：00-11:00   1.19 Service Function Chaining 2
 
-郭跃组：   1.24    周四   11：00-12:00   2.16 Blockchain Application
+郭跃组：   1.24    周四   11：00-12:00   2.15 BFT and Blockchain
 
  程宇翔：   1.24     周四  14：00-15:00                单独汇报
  
